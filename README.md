@@ -3,8 +3,9 @@ Hey there👋
 I’m the one who looks at chaotic datasets and thinks, “Challenge accepted.” Whether it’s cleaning up messy data, building machine learning models that actually work, or crafting visualizations that make your jaw drop, I’m here for it.<br><br>Data science isn’t just a career for me—it’s a playground for my creativity and curiosity.
 
 EDUCATION 
-B.COM from Banglore university        CGPA: 7.6
-12TH vvs pu COLLEGE
+
+B.COM from Banglore university  =>  CGPA: 7.6
+12TH vvs pu college
 
 EXPERIENCE
   Worked as a insurance advisor in SBI life insurance on part time basis
