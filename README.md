@@ -1,4 +1,4 @@
-#💫 About Me:
+# About Me:
 Hey there👋 
 I’m the one who looks at chaotic datasets and thinks, “Challenge accepted.” Whether it’s cleaning up messy data, building machine learning models that actually work, or crafting visualizations that make your jaw drop, I’m here for it.<br><br>Data science isn’t just a career for me—it’s a playground for my creativity and curiosity.
 
