@@ -14,3 +14,5 @@ I’m the one who looks at chaotic datasets and thinks, “Challenge accepted.�
 [![](https://visitcount.itsvg.in/api?id=rosedatahub&icon=4&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Experience
