@@ -8,9 +8,11 @@ B.COM from Banglore university  =>  CGPA: 7.6
 12TH vvs pu college
 
 EXPERIENCE
+
   Worked as a insurance advisor in SBI life insurance on part time basis
 
 PROJECT(Inter)
+
    A study on Financial Ratios analysis and sale of electric energy at (BESCOM Govt)
   
 
